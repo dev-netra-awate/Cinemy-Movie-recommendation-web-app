@@ -20,7 +20,7 @@ React, Node.js, SCSS, Mongoose, Cors, MongoDB(atlas)
 
 <= Instructions to run the project =>     
 1-Clone the repository using by running the command 'git clone'      
-Example - git clone https://github.com/neu-mis-info6150-fall2021/final-project-team-13.git       
+Example - git clone https://github.com/dev-netra-awate/Cinemy-Movie-recommendation-web-app.git   
 2- Navigate to the api-backend directory using 'cd api-backend' and run 'npm install' to install all the dependencies.          
 3- Run 'node index.js' to start the api-backend in dev mode.     
 4- Navigate to the web app directory ' cd movierecommendation-ui ' and run 'npm install' to install all the dependencies.    

@@ -35,16 +35,6 @@ Example - git clone https://github.com/neu-mis-info6150-fall2021/final-project-t
 5- npm install cors           
 6- npm i node-sass@4.14.1.   
 
-<=Project Contributers =>.   
-
-Backend =>       
-Netra Awate(001529534)(awate.n@northeastern.edu)        
-Sakshi Nayak(002193939)(nayak.sak@northeastern.edu)  
-
-Frontend =>          
-Shreya Bidarkar(001550684)(biradkar.s@northeastern.edu)     
-Taru Shukla(002193864)(shukla.t@northeastern.edu)      
-
 
 
 
